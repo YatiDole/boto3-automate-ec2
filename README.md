@@ -12,10 +12,10 @@ Demonstration based on assessment requirement
 
 **ec2_setup.py**
 
-	* This python script enables creation of a VPC ,subnet and creates an EC2 instance with two users with configured public keys and  two volumes.
+* This python script enables creation of a VPC ,subnet and creates an EC2 instance with two users with configured public keys and  two volumes.
 
 **test.yaml**
 	
-	* Has the configuration required to set up EC2 instance and the requirements.
+* Has the configuration required to set up EC2 instance and the requirements.
   
   
