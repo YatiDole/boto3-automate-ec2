@@ -4,9 +4,10 @@ Demonstration based on assessment requirement
 ## Prerequisites
 
 **Software**
-	* Python 3
-	* boto3
-	* AWS Command Line Interface(Configure using Access Keys)
+
+* Python 3<br>
+* boto3<br>
+* AWS Command Line Interface(Configure using Access Keys)<br>
 
 **Content**
 
